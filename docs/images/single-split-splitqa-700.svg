@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="815.52pt" height="375pt" viewBox="0 0 815.52 375">
+<rect width="815.52" height="375" fill="white"/>
+<defs>
+<marker id="arrow-luna" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 Z" fill="#2a78d6"/></marker>
+<marker id="arrow-terra" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 Z" fill="#eb6834"/></marker>
+<marker id="arrow-mini" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 Z" fill="#1baf7a"/></marker>
+<marker id="arrow-gemini" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 Z" fill="#4a3aa7"/></marker>
+</defs>
+<path d="M61.500,318.000 L638.000,318.000" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="52.191" y="321.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="end">40%</text>
+<path d="M61.500,246.409 L638.000,246.409" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="52.191" y="249.409" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="end">45%</text>
+<path d="M61.500,174.818 L638.000,174.818" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="52.191" y="177.818" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="end">50%</text>
+<path d="M61.500,103.227 L638.000,103.227" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="52.191" y="106.227" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="end">55%</text>
+<path d="M61.500,31.636 L638.000,31.636" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="52.191" y="34.636" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="end">60%</text>
+<path d="M61.500,3.000 L61.500,318.000" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="61.500" y="338.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="middle">$0</text>
+<path d="M125.075,3.000 L125.075,318.000" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="125.075" y="338.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="middle">$0.05</text>
+<path d="M175.365,3.000 L175.365,318.000" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="175.365" y="338.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="middle">$0.10</text>
+<path d="M245.055,3.000 L245.055,318.000" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="245.055" y="338.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="middle">$0.20</text>
+<path d="M367.638,3.000 L367.638,318.000" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="367.638" y="338.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="middle">$0.50</text>
+<path d="M483.289,3.000 L483.289,318.000" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="483.289" y="338.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="middle">$1.0</text>
+<path d="M560.000,3.000 L560.000,318.000" fill="none" stroke="#e2e0da" stroke-width="0.8" stroke-opacity="1"/>
+<text x="560.000" y="338.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#898781" text-anchor="middle">$1.5</text>
+<text x="349.750" y="360.000" font-family="Helvetica, Arial, sans-serif" font-size="9.75" font-weight="normal" fill="#52514e" text-anchor="middle">Average agent cost per issue (USD, log scale)</text>
+<text x="14.000" y="160.500" font-family="Helvetica, Arial, sans-serif" font-size="9.75" font-weight="normal" fill="#52514e" text-anchor="middle" transform="rotate(-90 14.000 160.500)">Resolve rate (%, higher is better)</text>
+<path d="M77.111,175.486 L105.419,234.859" fill="none" stroke="#2a78d6" stroke-width="1.4" stroke-opacity="0.68" stroke-dasharray="5 4"/>
+<path d="M105.419,234.859 L111.412,217.105" fill="none" stroke="#2a78d6" stroke-width="1.4" stroke-opacity="0.68" stroke-dasharray="5 4"/>
+<path d="M215.185,114.777 L334.476,105.995" fill="none" stroke="#eb6834" stroke-width="1.4" stroke-opacity="0.68" stroke-dasharray="5 4"/>
+<path d="M334.476,105.995 L348.550,89.625" fill="none" stroke="#eb6834" stroke-width="1.4" stroke-opacity="0.68" stroke-dasharray="5 4"/>
+<path d="M282.256,224.598 L396.689,282.586" fill="none" stroke="#1baf7a" stroke-width="1.4" stroke-opacity="0.68" stroke-dasharray="5 4"/>
+<path d="M396.689,282.586 L431.591,279.818" fill="none" stroke="#1baf7a" stroke-width="1.4" stroke-opacity="0.68" stroke-dasharray="5 4"/>
+<path d="M415.569,31.636 L542.303,94.350" fill="none" stroke="#4a3aa7" stroke-width="1.4" stroke-opacity="0.68" stroke-dasharray="5 4"/>
+<path d="M542.303,94.350 L550.627,93.014" fill="none" stroke="#4a3aa7" stroke-width="1.4" stroke-opacity="0.68" stroke-dasharray="5 4"/>
+<path d="M76.562,175.486 L77.691,175.486" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M76.562,171.486 L76.562,179.486" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M77.691,171.486 L77.691,179.486" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M77.111,154.343 L77.111,195.293" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M73.388,154.343 L80.835,154.343" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M73.388,195.293 L80.835,195.293" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M102.297,234.859 L107.039,234.859" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M102.297,230.859 L102.297,238.859" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M107.039,230.859 L107.039,238.859" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M105.419,209.611 L105.419,250.561" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M101.696,209.611 L109.143,209.611" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M101.696,250.561 L109.143,250.561" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M107.920,217.105 L115.100,217.105" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M107.920,213.105 L107.920,221.105" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M115.100,213.105 L115.100,221.105" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M111.412,207.607 L111.412,234.095" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M107.689,207.607 L115.136,207.607" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M107.689,234.095 L115.136,234.095" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M213.152,114.777 L217.873,114.777" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M213.152,110.777 L213.152,118.777" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M217.873,110.777 L217.873,118.777" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M215.185,111.389 L215.185,119.550" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M211.461,111.389 L218.909,111.389" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M211.461,119.550 L218.909,119.550" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M322.754,105.995 L341.082,105.995" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M322.754,101.995 L322.754,109.995" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M341.082,101.995 L341.082,109.995" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M334.476,86.905 L334.476,121.698" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M330.752,86.905 L338.200,86.905" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M330.752,121.698 L338.200,121.698" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M339.348,89.625 L355.572,89.625" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M339.348,85.625 L339.348,93.625" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M355.572,85.625 L355.572,93.625" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M348.550,72.586 L348.550,109.384" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M344.827,72.586 L352.274,72.586" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M344.827,109.384 L352.274,109.384" fill="none" stroke="#eb6834" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M277.637,224.598 L289.190,224.598" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M277.637,220.598 L277.637,228.598" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M289.190,220.598 L289.190,228.598" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M282.256,205.459 L282.256,252.566" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M278.532,205.459 L285.980,205.459" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M278.532,252.566 L285.980,252.566" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M383.066,282.586 L405.630,282.586" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M383.066,278.586 L383.066,286.586" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M405.630,278.586 L405.630,286.586" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M396.689,264.880 L396.689,295.520" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M392.966,264.880 L400.413,264.880" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M392.966,295.520 L400.413,295.520" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M423.438,279.818 L439.317,279.818" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M423.438,275.818 L423.438,283.818" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M439.317,275.818 L439.317,283.818" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M431.591,266.884 L431.591,295.520" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M427.867,266.884 L435.314,266.884" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M427.867,295.520 L435.314,295.520" fill="none" stroke="#1baf7a" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M408.315,31.636 L419.994,31.636" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M408.315,27.636 L408.315,35.636" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M419.994,27.636 L419.994,35.636" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M415.569,27.484 L415.569,37.793" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M411.845,27.484 L419.293,27.484" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M411.845,37.793 L419.293,37.793" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M532.135,94.350 L551.364,94.350" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M532.135,90.350 L532.135,98.350" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M551.364,90.350 L551.364,98.350" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M542.303,68.434 L542.303,119.550" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M538.579,68.434 L546.026,68.434" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M538.579,119.550 L546.026,119.550" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M540.639,93.014 L558.331,93.014" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M540.639,89.014 L540.639,97.014" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M558.331,89.014 L558.331,97.014" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M550.627,70.439 L550.627,107.380" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M546.903,70.439 L554.350,70.439" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<path d="M546.903,107.380 L554.350,107.380" fill="none" stroke="#4a3aa7" stroke-width="1.5" stroke-opacity="0.42"/>
+<circle cx="77.111" cy="175.486" r="6" fill="#2a78d6"/>
+<text x="88.282" y="163.486" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">GPT-5.6 Luna · Single</text>
+<rect x="99.419" y="228.859" width="12" height="12" rx="1" fill="#2a78d6"/>
+<text x="115.659" y="248.859" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">Split</text>
+<path d="M111.412,210.205 L118.012,221.305 L104.812,221.305 Z" fill="#2a78d6"/>
+<text x="121.652" y="208.105" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">Split+QA</text>
+<circle cx="215.185" cy="114.777" r="6" fill="#eb6834"/>
+<text x="204.014" y="104.777" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">GPT-5.6 Terra · Single</text>
+<rect x="328.476" y="99.995" width="12" height="12" rx="1" fill="#eb6834"/>
+<text x="324.236" y="94.995" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">Split</text>
+<path d="M348.550,82.725 L355.150,93.825 L341.950,93.825 Z" fill="#eb6834"/>
+<text x="359.721" y="103.625" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">Split+QA</text>
+<circle cx="282.256" cy="224.598" r="6" fill="#1baf7a"/>
+<text x="293.427" y="214.598" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">GPT-5.4 Mini · Single</text>
+<rect x="390.689" y="276.586" width="12" height="12" rx="1" fill="#1baf7a"/>
+<text x="386.449" y="296.586" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="end">Split</text>
+<path d="M431.591,272.918 L438.191,284.018 L424.991,284.018 Z" fill="#1baf7a"/>
+<text x="442.762" y="270.818" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">Split+QA</text>
+<circle cx="415.569" cy="31.636" r="6" fill="#4a3aa7"/>
+<text x="426.740" y="21.636" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">Gemini 3.7 Flash · Single</text>
+<rect x="536.303" y="88.350" width="12" height="12" rx="1" fill="#4a3aa7"/>
+<text x="553.473" y="81.350" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">Split</text>
+<path d="M550.627,86.114 L557.227,97.214 L544.027,97.214 Z" fill="#4a3aa7"/>
+<text x="561.798" y="111.014" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" fill="#0b0b0b" text-anchor="start">Split+QA</text>
+<text x="679.500" y="17.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="bold" fill="#0b0b0b" text-anchor="start">Color · model</text>
+<circle cx="687.750" cy="30.000" r="6" fill="#2a78d6"/>
+<text x="700.500" y="33.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#52514e" text-anchor="start">GPT-5.6 Luna</text>
+<circle cx="687.750" cy="48.000" r="6" fill="#eb6834"/>
+<text x="700.500" y="51.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#52514e" text-anchor="start">GPT-5.6 Terra</text>
+<circle cx="687.750" cy="66.000" r="6" fill="#1baf7a"/>
+<text x="700.500" y="69.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#52514e" text-anchor="start">GPT-5.4 Mini</text>
+<circle cx="687.750" cy="84.000" r="6" fill="#4a3aa7"/>
+<text x="700.500" y="87.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#52514e" text-anchor="start">Gemini 3.7 Flash</text>
+<text x="679.500" y="116.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="bold" fill="#0b0b0b" text-anchor="start">Shape · mode</text>
+<circle cx="687.750" cy="129.000" r="6" fill="#93918b"/>
+<text x="700.500" y="132.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#52514e" text-anchor="start">Single</text>
+<rect x="681.750" y="141.000" width="12" height="12" rx="1" fill="#93918b"/>
+<text x="700.500" y="150.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#52514e" text-anchor="start">Split</text>
+<path d="M687.750,158.100 L694.350,169.200 L681.150,169.200 Z" fill="#93918b"/>
+<text x="700.500" y="168.000" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="normal" fill="#52514e" text-anchor="start">Split+QA</text>
+</svg>

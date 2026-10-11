@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 570" width="900" height="570" role="img" aria-label="Answer accuracy versus agent cost per issue — ps64 phase order" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif">
+<rect x="0" y="0" width="900" height="570" fill="#ffffff"/>
+<line x1="82" x2="730" y1="428" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="432" text-anchor="end" fill="#898781" font-size="12">75%</text>
+<line x1="82" x2="730" y1="348" y2="348" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="352" text-anchor="end" fill="#898781" font-size="12">80%</text>
+<line x1="82" x2="730" y1="268" y2="268" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="272" text-anchor="end" fill="#898781" font-size="12">85%</text>
+<line x1="82" x2="730" y1="188" y2="188" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="192" text-anchor="end" fill="#898781" font-size="12">90%</text>
+<line x1="82" x2="730" y1="108" y2="108" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="112" text-anchor="end" fill="#898781" font-size="12">95%</text>
+<line x1="82" x2="730" y1="28" y2="28" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="32" text-anchor="end" fill="#898781" font-size="12">100%</text>
+<line x1="82" x2="82" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="82" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.00</text>
+<line x1="146.8" x2="146.8" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="146.8" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.10</text>
+<line x1="211.6" x2="211.6" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="211.6" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.20</text>
+<line x1="276.4" x2="276.4" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="276.4" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.30</text>
+<line x1="341.2" x2="341.2" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="341.2" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.40</text>
+<line x1="406" x2="406" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="406" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.50</text>
+<line x1="470.8" x2="470.8" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="470.8" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.60</text>
+<line x1="535.5999999999999" x2="535.5999999999999" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="535.5999999999999" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.70</text>
+<line x1="600.4" x2="600.4" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="600.4" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.80</text>
+<line x1="665.2" x2="665.2" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="665.2" y="453" text-anchor="middle" fill="#898781" font-size="12">$0.90</text>
+<line x1="730" x2="730" y1="28" y2="428" stroke="#e1e0d9" stroke-width="1"/>
+<text x="730" y="453" text-anchor="middle" fill="#898781" font-size="12">$1.0</text>
+<line x1="82" x2="730" y1="428" y2="428" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="82" x2="82" y1="28" y2="428" stroke="#c3c2b7" stroke-width="1"/>
+<text x="406" y="482" text-anchor="middle" fill="#52514e" font-size="13">Agent work cost (USD, lower is better)</text>
+<text x="18" y="228" text-anchor="middle" fill="#52514e" font-size="13" transform="rotate(-90 18 228)">Answer accuracy (%, higher is better)</text>
+<g><line x1="131.05360000000002" y1="181.5999999999999" x2="145.05360000000002" y2="177.5999999999999" stroke="#2a78d6" stroke-width="1" opacity="0.35"/><circle cx="131.05360000000002" cy="181.5999999999999" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="131.05360000000002" cy="181.5999999999999" r="8" fill="#2a78d6"/><text x="145.05360000000002" y="181.5999999999999" text-anchor="start" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Luna · QA-first</text></g>
+<g><line x1="127.4896" y1="127.20000000000005" x2="141.4896" y2="127.20000000000005" stroke="#2a78d6" stroke-width="1" opacity="0.35"/><rect x="119.4896" y="119.20000000000005" width="16" height="16" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><rect x="119.4896" y="119.20000000000005" width="16" height="16" rx="2" fill="#2a78d6"/><text x="141.4896" y="131.20000000000005" text-anchor="start" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Luna · QA-last</text></g>
+<g><line x1="130.2112" y1="242.4000000000001" x2="144.2112" y2="246.4000000000001" stroke="#2a78d6" stroke-width="1" opacity="0.35"/><polygon points="130.2112,232.4000000000001 140.2112,242.4000000000001 130.2112,252.4000000000001 120.21119999999999,242.4000000000001" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="130.2112,232.4000000000001 140.2112,242.4000000000001 130.2112,252.4000000000001 120.21119999999999,242.4000000000001" fill="#2a78d6"/><text x="144.2112" y="250.4000000000001" text-anchor="start" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Luna · QA-random</text></g>
+<g><line x1="508.1248" y1="56.799999999999955" x2="494.1248" y2="44.799999999999955" stroke="#eb6834" stroke-width="1" opacity="0.35"/><circle cx="508.1248" cy="56.799999999999955" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="508.1248" cy="56.799999999999955" r="8" fill="#eb6834"/><text x="494.1248" y="48.799999999999955" text-anchor="end" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Terra · QA-first</text></g>
+<g><line x1="530.092" y1="127.20000000000005" x2="516.092" y2="127.20000000000005" stroke="#eb6834" stroke-width="1" opacity="0.35"/><rect x="522.092" y="119.20000000000005" width="16" height="16" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><rect x="522.092" y="119.20000000000005" width="16" height="16" rx="2" fill="#eb6834"/><text x="516.092" y="131.20000000000005" text-anchor="end" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Terra · QA-last</text></g>
+<g><line x1="544.2832000000001" y1="84" x2="558.2832000000001" y2="88" stroke="#eb6834" stroke-width="1" opacity="0.35"/><polygon points="544.2832000000001,74 554.2832000000001,84 544.2832000000001,94 534.2832000000001,84" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="544.2832000000001,74 554.2832000000001,84 544.2832000000001,94 534.2832000000001,84" fill="#eb6834"/><text x="558.2832000000001" y="92" text-anchor="start" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Terra · QA-random</text></g>
+<g><line x1="655.4152" y1="239.20000000000005" x2="641.4152" y2="225.20000000000005" stroke="#1baf7a" stroke-width="1" opacity="0.35"/><circle cx="655.4152" cy="239.20000000000005" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="655.4152" cy="239.20000000000005" r="8" fill="#1baf7a"/><text x="641.4152" y="229.20000000000005" text-anchor="end" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.4 Mini · QA-first</text></g>
+<g><line x1="638.4376" y1="378.4000000000001" x2="624.4376" y2="376.4000000000001" stroke="#1baf7a" stroke-width="1" opacity="0.35"/><rect x="630.4376" y="370.4000000000001" width="16" height="16" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><rect x="630.4376" y="370.4000000000001" width="16" height="16" rx="2" fill="#1baf7a"/><text x="624.4376" y="380.4000000000001" text-anchor="end" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.4 Mini · QA-last</text></g>
+<g><line x1="639.8632" y1="282.4000000000001" x2="625.8632" y2="288.4000000000001" stroke="#1baf7a" stroke-width="1" opacity="0.35"/><polygon points="639.8632,272.4000000000001 649.8632,282.4000000000001 639.8632,292.4000000000001 629.8632,282.4000000000001" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="639.8632,272.4000000000001 649.8632,282.4000000000001 639.8632,292.4000000000001 629.8632,282.4000000000001" fill="#1baf7a"/><text x="625.8632" y="292.4000000000001" text-anchor="end" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.4 Mini · QA-random</text></g>
+<g><line x1="100.2736" y1="239.20000000000005" x2="114.2736" y2="227.20000000000005" stroke="#2a78d6" stroke-width="1" opacity="0.35"/><polygon points="100.2736,229.20000000000005 109.2736,247.20000000000005 91.2736,247.20000000000005" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="100.2736,229.20000000000005 109.2736,247.20000000000005 91.2736,247.20000000000005" fill="#2a78d6"/><text x="114.2736" y="231.20000000000005" text-anchor="start" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Luna · QA-only</text></g>
+<text x="82" y="522" fill="#0b0b0b" font-size="12" font-weight="600">Color · model</text>
+<circle cx="197" cy="518" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="197" cy="518" r="8" fill="#2a78d6"/><text x="214" y="522" fill="#52514e" font-size="12">GPT-5.6 Luna</text>
+<circle cx="334.52" cy="518" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="334.52" cy="518" r="8" fill="#eb6834"/><text x="351.52" y="522" fill="#52514e" font-size="12">GPT-5.6 Terra</text>
+<circle cx="479" cy="518" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="479" cy="518" r="8" fill="#1baf7a"/><text x="496" y="522" fill="#52514e" font-size="12">GPT-5.4 Mini</text>
+<text x="82" y="550" fill="#0b0b0b" font-size="12" font-weight="600">Shape · order</text>
+<circle cx="197" cy="546" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="197" cy="546" r="8" fill="#898781"/><text x="214" y="550" fill="#52514e" font-size="12">QA-first</text>
+<rect x="298.68" y="538" width="16" height="16" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><rect x="298.68" y="538" width="16" height="16" rx="2" fill="#898781"/><text x="323.68" y="550" fill="#52514e" font-size="12">QA-last</text>
+<polygon points="409.4,536 419.4,546 409.4,556 399.4,546" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="409.4,536 419.4,546 409.4,556 399.4,546" fill="#898781"/><text x="426.4" y="550" fill="#52514e" font-size="12">QA-random</text>
+<polygon points="526.04,536 535.04,554 517.04,554" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="526.04,536 535.04,554 517.04,554" fill="#898781"/><text x="543.04" y="550" fill="#52514e" font-size="12">QA-only</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550" width="900" height="550" role="img" aria-label="Split+QA cost versus SWE resolve and answer accuracy on QA-scored issues" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif">
+<rect x="0" y="0" width="900" height="550" fill="#ffffff"/>
+<line x1="82" x2="730" y1="388" y2="388" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="392" text-anchor="end" fill="#898781" font-size="12">50%</text>
+<line x1="82" x2="730" y1="338" y2="338" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="342" text-anchor="end" fill="#898781" font-size="12">55%</text>
+<line x1="82" x2="730" y1="288" y2="288" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="292" text-anchor="end" fill="#898781" font-size="12">60%</text>
+<line x1="82" x2="730" y1="238.00000000000003" y2="238.00000000000003" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="242.00000000000003" text-anchor="end" fill="#898781" font-size="12">65%</text>
+<line x1="82" x2="730" y1="188" y2="188" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="192" text-anchor="end" fill="#898781" font-size="12">70%</text>
+<line x1="82" x2="730" y1="138" y2="138" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="142" text-anchor="end" fill="#898781" font-size="12">75%</text>
+<line x1="82" x2="730" y1="88" y2="88" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="92" text-anchor="end" fill="#898781" font-size="12">80%</text>
+<line x1="82" x2="730" y1="38" y2="38" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="42" text-anchor="end" fill="#898781" font-size="12">85%</text>
+<line x1="82" x2="82" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="82" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.00</text>
+<line x1="197.71428571428572" x2="197.71428571428572" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="197.71428571428572" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.25</text>
+<line x1="313.42857142857144" x2="313.42857142857144" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="313.42857142857144" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.50</text>
+<line x1="429.1428571428571" x2="429.1428571428571" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="429.1428571428571" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.75</text>
+<line x1="544.8571428571429" x2="544.8571428571429" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="544.8571428571429" y="433" text-anchor="middle" fill="#898781" font-size="12">$1.0</text>
+<line x1="660.5714285714286" x2="660.5714285714286" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="660.5714285714286" y="433" text-anchor="middle" fill="#898781" font-size="12">$1.3</text>
+<line x1="82" x2="730" y1="408" y2="408" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="82" x2="82" y1="28" y2="408" stroke="#c3c2b7" stroke-width="1"/>
+<text x="406" y="462" text-anchor="middle" fill="#52514e" font-size="13">Agent work cost (USD, lower is better)</text>
+<text x="18" y="218" text-anchor="middle" fill="#52514e" font-size="13" transform="rotate(-90 18 218)">Rate (%, higher is better)</text>
+<line x1="444.63005714285714" y1="365.3" x2="444.63005714285714" y2="198.80000000000007" stroke="#1baf7a" stroke-width="2" opacity="0.9"/>
+<line x1="101.56034285714286" y1="302.9" x2="101.56034285714286" y2="80.29999999999998" stroke="#2a78d6" stroke-width="2" opacity="0.9"/>
+<line x1="292.77125714285717" y1="243.79999999999998" x2="292.77125714285717" y2="66.69999999999999" stroke="#eb6834" stroke-width="2" opacity="0.9"/>
+<line x1="684.7048000000001" y1="253.5" x2="684.7048000000001" y2="82.40000000000006" stroke="#4a3aa7" stroke-width="2" opacity="0.9"/>
+<g><line x1="444.63005714285714" y1="374.3" x2="458.63005714285714" y2="358.3" stroke="#1baf7a" stroke-width="1" opacity="0.35"/><circle cx="444.63005714285714" cy="374.3" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="7"/><circle cx="444.63005714285714" cy="374.3" r="8" fill="#ffffff" stroke="#1baf7a" stroke-width="3"/><text x="458.63005714285714" y="362.3" text-anchor="start" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.4 Mini</text><text x="458.63005714285714" y="373.3" text-anchor="start" fill="#52514e" font-size="8">Resolve rate</text></g>
+<g><line x1="444.63005714285714" y1="189.80000000000007" x2="430.63005714285714" y2="185.80000000000007" stroke="#1baf7a" stroke-width="1" opacity="0.35"/><circle cx="444.63005714285714" cy="189.80000000000007" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="444.63005714285714" cy="189.80000000000007" r="8" fill="#1baf7a"/><text x="430.63005714285714" y="189.80000000000007" text-anchor="end" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.4 Mini</text><text x="430.63005714285714" y="200.80000000000007" text-anchor="end" fill="#52514e" font-size="8">Answer accuracy</text></g>
+<g><line x1="101.56034285714286" y1="311.9" x2="115.56034285714286" y2="315.9" stroke="#2a78d6" stroke-width="1" opacity="0.35"/><circle cx="101.56034285714286" cy="311.9" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="7"/><circle cx="101.56034285714286" cy="311.9" r="8" fill="#ffffff" stroke="#2a78d6" stroke-width="3"/><text x="115.56034285714286" y="319.9" text-anchor="start" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Luna</text><text x="115.56034285714286" y="330.9" text-anchor="start" fill="#52514e" font-size="8">Resolve rate</text></g>
+<g><line x1="101.56034285714286" y1="71.29999999999998" x2="115.56034285714286" y2="59.29999999999998" stroke="#2a78d6" stroke-width="1" opacity="0.35"/><circle cx="101.56034285714286" cy="71.29999999999998" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="101.56034285714286" cy="71.29999999999998" r="8" fill="#2a78d6"/><text x="115.56034285714286" y="63.29999999999998" text-anchor="start" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Luna</text><text x="115.56034285714286" y="74.29999999999998" text-anchor="start" fill="#52514e" font-size="8">Answer accuracy</text></g>
+<g><line x1="292.77125714285717" y1="252.79999999999998" x2="306.77125714285717" y2="256.79999999999995" stroke="#eb6834" stroke-width="1" opacity="0.35"/><circle cx="292.77125714285717" cy="252.79999999999998" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="7"/><circle cx="292.77125714285717" cy="252.79999999999998" r="8" fill="#ffffff" stroke="#eb6834" stroke-width="3"/><text x="306.77125714285717" y="260.79999999999995" text-anchor="start" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Terra</text><text x="306.77125714285717" y="271.79999999999995" text-anchor="start" fill="#52514e" font-size="8">Resolve rate</text></g>
+<g><line x1="292.77125714285717" y1="57.69999999999999" x2="278.77125714285717" y2="53.69999999999999" stroke="#eb6834" stroke-width="1" opacity="0.35"/><circle cx="292.77125714285717" cy="57.69999999999999" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="292.77125714285717" cy="57.69999999999999" r="8" fill="#eb6834"/><text x="278.77125714285717" y="57.69999999999999" text-anchor="end" fill="#0b0b0b" font-size="9" font-weight="600">GPT-5.6 Terra</text><text x="278.77125714285717" y="68.69999999999999" text-anchor="end" fill="#52514e" font-size="8">Answer accuracy</text></g>
+<g><line x1="684.7048000000001" y1="262.5" x2="670.7048000000001" y2="266.5" stroke="#4a3aa7" stroke-width="1" opacity="0.35"/><circle cx="684.7048000000001" cy="262.5" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="7"/><circle cx="684.7048000000001" cy="262.5" r="8" fill="#ffffff" stroke="#4a3aa7" stroke-width="3"/><text x="670.7048000000001" y="270.5" text-anchor="end" fill="#0b0b0b" font-size="9" font-weight="600">Gemini 3.7 Flash</text><text x="670.7048000000001" y="281.5" text-anchor="end" fill="#52514e" font-size="8">Resolve rate</text></g>
+<g><line x1="684.7048000000001" y1="73.40000000000006" x2="670.7048000000001" y2="61.40000000000006" stroke="#4a3aa7" stroke-width="1" opacity="0.35"/><circle cx="684.7048000000001" cy="73.40000000000006" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="684.7048000000001" cy="73.40000000000006" r="8" fill="#4a3aa7"/><text x="670.7048000000001" y="65.40000000000006" text-anchor="end" fill="#0b0b0b" font-size="9" font-weight="600">Gemini 3.7 Flash</text><text x="670.7048000000001" y="76.40000000000006" text-anchor="end" fill="#52514e" font-size="8">Answer accuracy</text></g>
+<text x="82" y="502" fill="#0b0b0b" font-size="12" font-weight="600">Color · model</text>
+<circle cx="197" cy="498" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="197" cy="498" r="8" fill="#2a78d6"/><text x="214" y="502" fill="#52514e" font-size="12">GPT-5.6 Luna</text>
+<circle cx="334.52" cy="498" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="334.52" cy="498" r="8" fill="#eb6834"/><text x="351.52" y="502" fill="#52514e" font-size="12">GPT-5.6 Terra</text>
+<circle cx="479" cy="498" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="479" cy="498" r="8" fill="#1baf7a"/><text x="496" y="502" fill="#52514e" font-size="12">GPT-5.4 Mini</text>
+<circle cx="616.52" cy="498" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="616.52" cy="498" r="8" fill="#4a3aa7"/><text x="633.52" y="502" fill="#52514e" font-size="12">Gemini 3.7 Flash</text>
+<text x="82" y="530" fill="#0b0b0b" font-size="12" font-weight="600">Fill · metric</text>
+<circle cx="197" cy="526" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="197" cy="526" r="8" fill="#898781"/><text x="214" y="530" fill="#52514e" font-size="12">Answer accuracy</text>
+<circle cx="355.4" cy="526" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="7"/><circle cx="355.4" cy="526" r="8" fill="#ffffff" stroke="#898781" stroke-width="3"/><text x="372.4" y="530" fill="#52514e" font-size="12">Resolve rate</text>
+</svg>

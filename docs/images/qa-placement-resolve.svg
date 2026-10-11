@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 550" width="900" height="550" role="img" aria-label="SWE resolve rate versus agent cost per issue" font-family="Helvetica, Arial, 'Liberation Sans', sans-serif">
+<rect x="0" y="0" width="900" height="550" fill="#ffffff"/>
+<line x1="82" x2="796" y1="408" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="412" text-anchor="end" fill="#898781" font-size="12">40%</text>
+<line x1="82" x2="796" y1="313" y2="313" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="317" text-anchor="end" fill="#898781" font-size="12">45%</text>
+<line x1="82" x2="796" y1="218" y2="218" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="222" text-anchor="end" fill="#898781" font-size="12">50%</text>
+<line x1="82" x2="796" y1="123" y2="123" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="127" text-anchor="end" fill="#898781" font-size="12">55%</text>
+<line x1="82" x2="796" y1="28" y2="28" stroke="#e1e0d9" stroke-width="1"/>
+<text x="68" y="32" text-anchor="end" fill="#898781" font-size="12">60%</text>
+<line x1="82" x2="82" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="82" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.00</text>
+<line x1="153.4" x2="153.4" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="153.4" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.10</text>
+<line x1="224.8" x2="224.8" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="224.8" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.20</text>
+<line x1="296.2" x2="296.2" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="296.2" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.30</text>
+<line x1="367.6" x2="367.6" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="367.6" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.40</text>
+<line x1="439" x2="439" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="439" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.50</text>
+<line x1="510.4" x2="510.4" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="510.4" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.60</text>
+<line x1="581.8" x2="581.8" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="581.8" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.70</text>
+<line x1="653.2" x2="653.2" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="653.2" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.80</text>
+<line x1="724.6" x2="724.6" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="724.6" y="433" text-anchor="middle" fill="#898781" font-size="12">$0.90</text>
+<line x1="796" x2="796" y1="28" y2="408" stroke="#e1e0d9" stroke-width="1"/>
+<text x="796" y="433" text-anchor="middle" fill="#898781" font-size="12">$1.0</text>
+<line x1="82" x2="796" y1="408" y2="408" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="82" x2="82" y1="28" y2="408" stroke="#c3c2b7" stroke-width="1"/>
+<text x="439" y="462" text-anchor="middle" fill="#52514e" font-size="13">Agent work cost (USD, lower is better)</text>
+<text x="18" y="218" text-anchor="middle" fill="#52514e" font-size="13" transform="rotate(-90 18 218)">SWE resolve rate (%, higher is better)</text>
+<g><line x1="136.0498" y1="128.69999999999993" x2="150.0498" y2="128.69999999999993" stroke="#2a78d6" stroke-width="1" opacity="0.35"/><circle cx="136.0498" cy="128.69999999999993" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="136.0498" cy="128.69999999999993" r="8" fill="#2a78d6"/><text x="150.0498" y="132.69999999999993" text-anchor="start" fill="#0b0b0b" font-size="10" font-weight="600">GPT-5.6 Luna · QA-first</text></g>
+<g><line x1="132.12279999999998" y1="100.19999999999995" x2="148.12279999999998" y2="92.19999999999995" stroke="#2a78d6" stroke-width="1" opacity="0.35"/><rect x="124.12279999999998" y="92.19999999999995" width="16" height="16" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><rect x="124.12279999999998" y="92.19999999999995" width="16" height="16" rx="2" fill="#2a78d6"/><text x="148.12279999999998" y="96.19999999999995" text-anchor="start" fill="#0b0b0b" font-size="10" font-weight="600">GPT-5.6 Luna · QA-last</text></g>
+<g><line x1="135.1216" y1="159.09999999999997" x2="151.1216" y2="167.09999999999997" stroke="#2a78d6" stroke-width="1" opacity="0.35"/><polygon points="135.1216,149.09999999999997 145.1216,159.09999999999997 135.1216,169.09999999999997 125.1216,159.09999999999997" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="135.1216,149.09999999999997 145.1216,159.09999999999997 135.1216,169.09999999999997 125.1216,159.09999999999997" fill="#2a78d6"/><text x="151.1216" y="171.09999999999997" text-anchor="start" fill="#0b0b0b" font-size="10" font-weight="600">GPT-5.6 Luna · QA-random</text></g>
+<g><line x1="551.5264" y1="159.09999999999997" x2="535.5264" y2="141.09999999999997" stroke="#eb6834" stroke-width="1" opacity="0.35"/><circle cx="551.5264" cy="159.09999999999997" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="551.5264" cy="159.09999999999997" r="8" fill="#eb6834"/><text x="535.5264" y="145.09999999999997" text-anchor="end" fill="#0b0b0b" font-size="10" font-weight="600">GPT-5.6 Terra · QA-first</text></g>
+<g><line x1="575.731" y1="100.19999999999995" x2="591.731" y2="92.19999999999995" stroke="#eb6834" stroke-width="1" opacity="0.35"/><rect x="567.731" y="92.19999999999995" width="16" height="16" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><rect x="567.731" y="92.19999999999995" width="16" height="16" rx="2" fill="#eb6834"/><text x="591.731" y="96.19999999999995" text-anchor="start" fill="#0b0b0b" font-size="10" font-weight="600">GPT-5.6 Terra · QA-last</text></g>
+<g><line x1="591.3676" y1="39.40000000000003" x2="575.3676" y2="47.40000000000003" stroke="#eb6834" stroke-width="1" opacity="0.35"/><polygon points="591.3676,29.400000000000027 601.3676,39.40000000000003 591.3676,49.40000000000003 581.3676,39.40000000000003" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="591.3676,29.400000000000027 601.3676,39.40000000000003 591.3676,49.40000000000003 581.3676,39.40000000000003" fill="#eb6834"/><text x="575.3676" y="51.40000000000003" text-anchor="end" fill="#0b0b0b" font-size="10" font-weight="600">GPT-5.6 Terra · QA-random</text></g>
+<g><line x1="713.8186000000001" y1="218" x2="697.8186000000001" y2="196" stroke="#1baf7a" stroke-width="1" opacity="0.35"/><circle cx="713.8186000000001" cy="218" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="713.8186000000001" cy="218" r="8" fill="#1baf7a"/><text x="697.8186000000001" y="200" text-anchor="end" fill="#0b0b0b" font-size="10" font-weight="600">GPT-5.4 Mini · QA-first</text></g>
+<g><line x1="695.1118" y1="248.40000000000003" x2="679.1118" y2="244.40000000000003" stroke="#1baf7a" stroke-width="1" opacity="0.35"/><rect x="687.1118" y="240.40000000000003" width="16" height="16" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><rect x="687.1118" y="240.40000000000003" width="16" height="16" rx="2" fill="#1baf7a"/><text x="679.1118" y="248.40000000000003" text-anchor="end" fill="#0b0b0b" font-size="10" font-weight="600">GPT-5.4 Mini · QA-last</text></g>
+<g><line x1="696.6826" y1="159.09999999999997" x2="680.6826" y2="173.09999999999997" stroke="#1baf7a" stroke-width="1" opacity="0.35"/><polygon points="696.6826,149.09999999999997 706.6826,159.09999999999997 696.6826,169.09999999999997 686.6826,159.09999999999997" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="696.6826,149.09999999999997 706.6826,159.09999999999997 696.6826,169.09999999999997 686.6826,159.09999999999997" fill="#1baf7a"/><text x="680.6826" y="177.09999999999997" text-anchor="end" fill="#0b0b0b" font-size="10" font-weight="600">GPT-5.4 Mini · QA-random</text></g>
+<text x="82" y="502" fill="#0b0b0b" font-size="12" font-weight="600">Color · model</text>
+<circle cx="197" cy="498" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="197" cy="498" r="8" fill="#2a78d6"/><text x="214" y="502" fill="#52514e" font-size="12">GPT-5.6 Luna</text>
+<circle cx="334.52" cy="498" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="334.52" cy="498" r="8" fill="#eb6834"/><text x="351.52" y="502" fill="#52514e" font-size="12">GPT-5.6 Terra</text>
+<circle cx="479" cy="498" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="479" cy="498" r="8" fill="#1baf7a"/><text x="496" y="502" fill="#52514e" font-size="12">GPT-5.4 Mini</text>
+<text x="82" y="530" fill="#0b0b0b" font-size="12" font-weight="600">Shape · order</text>
+<circle cx="197" cy="526" r="8" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><circle cx="197" cy="526" r="8" fill="#898781"/><text x="214" y="530" fill="#52514e" font-size="12">QA-first</text>
+<rect x="298.68" y="518" width="16" height="16" rx="2" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><rect x="298.68" y="518" width="16" height="16" rx="2" fill="#898781"/><text x="323.68" y="530" fill="#52514e" font-size="12">QA-last</text>
+<polygon points="409.4,516 419.4,526 409.4,536 399.4,526" fill="#ffffff" stroke="#ffffff" stroke-width="4"/><polygon points="409.4,516 419.4,526 409.4,536 399.4,526" fill="#898781"/><text x="426.4" y="530" fill="#52514e" font-size="12">QA-random</text>
+</svg>
