@@ -5,6 +5,8 @@
 Dataset generation and QA validation tooling for SWE-TaskFlow, the interactive
 task-flow benchmark built on SWE-Bench Pro.
 
+Paper: [Coding-Agent Benchmarks Should Match Their Users' Task Flows](https://arxiv.org/abs/2610.09633) (arXiv:2610.09633).
+
 SWE-TaskFlow keeps the repositories, requested changes, environments, and
 test-based verifiers of verified SWE tasks fixed and regenerates only the
 interaction layer: the user messages the agent receives and their order. It
@@ -247,11 +249,14 @@ uv run pytest
 ## Citation
 
 ```bibtex
-@inproceedings{slinko2026swetaskflow,
-  title={Opinion: Coding-Agent Benchmarks Should Match Their Users' Task Flows},
+@misc{slinko2026swetaskflow,
+  title={Coding-Agent Benchmarks Should Match Their Users' Task Flows},
   author={Slinko, Igor and Golubev, Yaroslav and Titov, Sergey},
-  booktitle={NeurIPS 2026 Workshop on Evaluation of Interactive Agents},
-  year={2026}
+  year={2026},
+  eprint={2610.09633},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2610.09633}
 }
 ```
 
