@@ -29,17 +29,6 @@ evaluation protocol.
   task followed through every stage, with the exact prompts, intermediate
   artifacts, the agent's outputs, and the final scores.
 
-## Contents
-
-- [Key results](#key-results)
-- [How the benchmark works](#how-the-benchmark-works)
-- [Setup](#setup) and [workflow](#workflow):
-  [multi-prompt records](#1-generate-multi-prompt-records),
-  [QA records](#2-generate-qa-records),
-  [hybrid records](#3-build-hybrid-records)
-- [Prompts](prompts/): QA generation, review, repair, and judging; agent phases
-- [Citation](#citation)
-
 ## Key results
 
 ### The interaction layer changes the measurement
